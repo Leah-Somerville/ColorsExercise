@@ -1,0 +1,27 @@
+h1{
+  color: red;backgroud-color: pink;
+}
+h2{
+  color:#f57905;backgroud-color: purple;
+}
+h3{
+  color:#ff0;backgroud-color: blue;
+}
+h4{
+  color:#0f08;
+  backgroud-color: green;
+}
+h5{
+  color:#0000ffaa;
+  backgroud-color: yellow;
+}
+
+h6 {
+  color: rgb(161, 7, 250);
+  backgroud-color: orange;
+}
+
+p{
+  color:rgba(237, 47, 149, 0.4);
+  backgroud-color: red;
+}
